@@ -1,0 +1,17 @@
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\bin\Debug\net6.0-windows\ADD_SHOW_FORM.exe
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\bin\Debug\net6.0-windows\ADD_SHOW_FORM.deps.json
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\bin\Debug\net6.0-windows\ADD_SHOW_FORM.runtimeconfig.json
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\bin\Debug\net6.0-windows\ADD_SHOW_FORM.dll
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\bin\Debug\net6.0-windows\ADD_SHOW_FORM.pdb
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.Form1.resources
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.Form2.resources
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.csproj.GenerateResource.cache
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.AssemblyInfoInputs.cache
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.AssemblyInfo.cs
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.csproj.CoreCompileInputs.cache
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.dll
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\refint\ADD_SHOW_FORM.dll
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.pdb
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ADD_SHOW_FORM.genruntimeconfig.cache
+C:\Users\mmkal\source\repos\ADD_SHOW_FORM\ADD_SHOW_FORM\obj\Debug\net6.0-windows\ref\ADD_SHOW_FORM.dll
